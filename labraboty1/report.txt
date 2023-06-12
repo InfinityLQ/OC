@@ -1,0 +1,5 @@
+Report based on binary file data
+Employee 	Name	Hours	Salary
+1		li	23	1058
+2		shuoyuan	12	552
+3		hsaiuh	35	1610

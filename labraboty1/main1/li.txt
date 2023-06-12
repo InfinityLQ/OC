@@ -1,0 +1,4 @@
+1. cd /d D:\vs\算法课\算法课   
+2. Source data 3
+3. ID - 9， Name - li, hourse - 18
+4. report file example - report.txt

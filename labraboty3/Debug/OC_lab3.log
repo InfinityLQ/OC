@@ -1,0 +1,11 @@
+﻿  main.c
+D:\vs\算法课\OC_2\Project1\OC_lab3\main.c(59,10): warning C4133: “函数”: 从“void (__stdcall *)(LPVOID)”到“LPTHREAD_START_ROUTINE”的类型不兼容
+  marker.c
+D:\vs\算法课\OC_2\Project1\OC_lab3\marker.c(25,33): warning C4047: “函数”:“LPCRITICAL_SECTION”与“LPCRITICAL_SECTION **”的间接级别不同
+D:\vs\算法课\OC_2\Project1\OC_lab3\marker.c(25,25): warning C4024: “EnterCriticalSection”: 形参和实参 1 的类型不同
+D:\vs\算法课\OC_2\Project1\OC_lab3\marker.c(38,34): warning C4047: “函数”:“LPCRITICAL_SECTION”与“LPCRITICAL_SECTION **”的间接级别不同
+D:\vs\算法课\OC_2\Project1\OC_lab3\marker.c(38,26): warning C4024: “LeaveCriticalSection”: 形参和实参 1 的类型不同
+D:\vs\算法课\OC_2\Project1\OC_lab3\marker.c(41,33): warning C4047: “函数”:“LPCRITICAL_SECTION”与“LPCRITICAL_SECTION **”的间接级别不同
+D:\vs\算法课\OC_2\Project1\OC_lab3\marker.c(41,25): warning C4024: “LeaveCriticalSection”: 形参和实参 1 的类型不同
+  正在生成代码...
+  OC_lab3.vcxproj -> D:\vs\算法课\OC_2\Project1\Debug\OC_lab3.exe
